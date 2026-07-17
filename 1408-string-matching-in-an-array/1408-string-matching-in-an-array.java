@@ -7,14 +7,11 @@ class Solution {
 
             for (int j = 0; j < words.length; j++) {
 
-                if (i == j) {
-                    continue;
-                }
-
-                if (words[j].contains(words[i])) {
+                if (i != j && words[j].contains(words[i])) {
                     ans.add(words[i]);
                     break;
                 }
+
             }
         }
 
