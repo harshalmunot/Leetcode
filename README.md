@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/harshalmunot/Leetcode/tree/main/2074-reverse-nodes-in-even-length-groups/) | Medium |
