@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/harshalmunot/Leetcode/tree/main/2074-reverse-nodes-in-even-length-groups/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
