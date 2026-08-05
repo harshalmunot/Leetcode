@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshalmunot/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/harshalmunot/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/harshalmunot/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/harshalmunot/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/harshalmunot/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/harshalmunot/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/harshalmunot/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/harshalmunot/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -134,8 +136,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/harshalmunot/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
