@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/harshalmunot/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/harshalmunot/Leetcode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshalmunot/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/harshalmunot/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
