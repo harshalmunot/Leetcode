@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0268-missing-number](https://github.com/harshalmunot/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshalmunot/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/harshalmunot/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harshalmunot/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshalmunot/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3360-stone-removal-game](https://github.com/harshalmunot/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshalmunot/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
