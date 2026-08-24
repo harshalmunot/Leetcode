@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshalmunot/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/harshalmunot/Leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshalmunot/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1472-design-browser-history](https://github.com/harshalmunot/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshalmunot/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/harshalmunot/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/harshalmunot/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0328-odd-even-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/harshalmunot/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/harshalmunot/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/harshalmunot/Leetcode/tree/main/2074-reverse-nodes-in-even-length-groups/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -168,9 +170,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/harshalmunot/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/harshalmunot/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [1472-design-browser-history](https://github.com/harshalmunot/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshalmunot/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/harshalmunot/Leetcode/tree/main/1472-design-browser-history/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/harshalmunot/Leetcode/tree/main/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/harshalmunot/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
