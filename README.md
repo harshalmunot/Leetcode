@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/harshalmunot/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/harshalmunot/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/harshalmunot/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [1015-smallest-integer-divisible-by-k](https://github.com/harshalmunot/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshalmunot/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/harshalmunot/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harshalmunot/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/harshalmunot/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/harshalmunot/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/harshalmunot/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/harshalmunot/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshalmunot/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/harshalmunot/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshalmunot/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/harshalmunot/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1015-smallest-integer-divisible-by-k](https://github.com/harshalmunot/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
