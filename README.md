@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/harshalmunot/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/harshalmunot/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harshalmunot/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshalmunot/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/harshalmunot/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/harshalmunot/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/harshalmunot/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harshalmunot/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshalmunot/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/harshalmunot/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
