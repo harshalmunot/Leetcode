@@ -1,29 +1,50 @@
 class Solution {
+
+    boolean find(int[] nums, int threshold, int mid) {
+        int sum = 0;
+
+        for (int i = 0; i < nums.length; i++) {
+
+            sum += (nums[i] + mid - 1) / mid;
+
+            if (sum > threshold) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+
     public int smallestDivisor(int[] nums, int threshold) {
 
-        int low = 1;
-        int high = 0;
+        int n = nums.length;
 
-        for (int num : nums) {
-            high = Math.max(high, num);
+        int s = 1;
+        int e = -1;
+        int ans = -1;
+
+        // Find maximum element
+        for (int i = 0; i < n; i++) {
+            e = Math.max(nums[i], e);
         }
 
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
+        while (s <= e) {
 
-            int sum = 0;
+            int mid = s + (e - s) / 2;
 
-            for (int num : nums) {
-                sum += (num + mid - 1) / mid;
-            }
+            boolean flag = find(nums, threshold, mid);
 
-            if (sum <= threshold) {
-                high = mid - 1;
+            if (flag == true) {
+
+                ans = mid;
+                e = mid - 1;
+
             } else {
-                low = mid + 1;
+
+                s = mid + 1;
             }
         }
 
-        return low;
+        return ans;
     }
 }
