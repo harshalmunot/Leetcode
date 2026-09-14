@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/harshalmunot/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/harshalmunot/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/harshalmunot/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0836-rectangle-overlap](https://github.com/harshalmunot/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harshalmunot/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshalmunot/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/harshalmunot/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
@@ -283,4 +284,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshalmunot/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/harshalmunot/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
