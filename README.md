@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/harshalmunot/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/harshalmunot/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/harshalmunot/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/harshalmunot/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/harshalmunot/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/harshalmunot/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -288,4 +290,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/harshalmunot/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/harshalmunot/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/harshalmunot/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
