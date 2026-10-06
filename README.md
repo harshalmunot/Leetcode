@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/harshalmunot/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/harshalmunot/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/harshalmunot/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshalmunot/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/harshalmunot/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1408-string-matching-in-an-array](https://github.com/harshalmunot/Leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/harshalmunot/Leetcode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/harshalmunot/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshalmunot/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshalmunot/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harshalmunot/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Array
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/harshalmunot/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/harshalmunot/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshalmunot/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1472-design-browser-history](https://github.com/harshalmunot/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/harshalmunot/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Enumeration
@@ -298,4 +301,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/harshalmunot/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshalmunot/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
